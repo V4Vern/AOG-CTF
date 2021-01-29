@@ -1,5 +1,5 @@
 
-# Flag_Format 
+# Redacted
 
 Difficulty Level: Warmup
 John has recently purchased a CCTV and he needs to find the password and the username to log in to the web interface. However, a hacker appears to have intercepted his email and did something to the document. Find the password and the username :)
