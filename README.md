@@ -2,7 +2,7 @@
 
 ## Challenge List
 
-This is the list of challenges within this repository. _Unfortunately for now, this list has to be manually updated. Eventually, we'll shift to automatically building this list by walking the directories in this repository._
+This is the list of challenges within this repository. 
 
 | Name                   | Category         | Difficulty |
 | ---------------------- | ---------------- | ---------- |
@@ -35,6 +35,63 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | MouseHunt         		 | Web Exploitation | Hard  	   |
 | C2-Communication       | Web Exploitation | Hard  	   |
 | Shell             		 | Web Exploitation | Hard  	   |
+| Caesar’s brother       | Cryptography     | Warmup     |
+| ZigZag                 | Cryptography     | Warmup     |
+| Doctors                | Cryptography     | Warmup     |
+| Polybius Message       | Cryptography     | Warmup     |
+| Alphabets              | Cryptography     | Easy       |
+| Bonjour Blaise de      | Cryptography     | Easy       |
+| Enigma                 | Cryptography     | Easy       |
+| Substitute             | Cryptography     | Medium     |
+| Modern Clueless Cipher | Cryptography     | Medium     |
+| Single Byte            | Cryptography     | Medium     |
+| Asymmetric             | Cryptography     | Medium     |
+| Public Key             | Cryptography     | Hard       |
+| Minicomputer           | Cryptography     | Hard       |
+| Rot x                  | Cryptography     | Hard       |
+| Many Primes            | Cryptography     | Hard       |
+| Weird File             | Forensics        | Warmup     |
+| Hidden File            | Forensics        | Warmup     |
+| Important_exif         | Forensics        | Warmup     |
+| Broken                 | Forensics        | Easy       |
+| Treasure Hunt          | Forensics        | Easy       |
+| Spectrum               | Forensics        | Easy       |
+| Communication          | Forensics        | Medium     |
+| WhiteSpace             | Forensics        | Medium     |
+| Cat Hashes             | Forensics        | Medium     |
+| Encrypted Zip          | Forensics        | Medium     |
+| Parrot                 | Forensics        | Medium     |
+| Least-Significant-Song | Forensics        | Hard       |
+| Slacker                | Forensics        | Hard       |
+| Easter Egg             | Forensics        | Hard       |
+| Good_Eyes              | Forensics        | Hard       |
+| Easy_RE                | RE               | Warmup     |
+| Easy_Java              | RE               | Warmup     |
+| Compare_String         | RE               | Easy       |
+| Interesting_RE         | RE               | Medium     |
+| Protection             | RE               | Hard       |
+| connect                | pwn              | Warmup     |
+| ezpwn                  | pwn              | Warmup     |
+| Dialogue               | pwn              | Warmup     |
+| execute_me             | pwn              | Warmup     |
+| Login                  | pwn              | Warmup     |
+| Ezpwn                  | pwn              | Warmup     |
+| Varied Fun             | pwn              | Warmup     |
+| Buffman                | pwn              | Warmup     |
+| Endiania Jones         | pwn              | Warmup     |
+| Beefy Variable         | pwn              | Easy       |
+| Pointer                | pwn              | Easy       |
+| Secret Function        | pwn              | Easy       |
+| Format Leak            | pwn              | Easy       |
+| Shellcoder             | pwn              | Easy       |
+| Arguable Function      | pwn              | Medium     |
+| Double Trouble         | pwn              | Medium     |
+| Split System           | pwn              | Medium     |
+| Format Var             | pwn              | Medium     |
+| return2stack           | pwn              | Hard       |
+| rop2win                | pwn              | Hard       |
+| eaxman                 | pwn              | Hard       |
+
 
 
 
