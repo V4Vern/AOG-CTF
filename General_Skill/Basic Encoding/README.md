@@ -2,6 +2,7 @@
 # Basic Encoding
 
 Difficulty Level: Easy
+
 This encoding is a binary-to-text encoding schemes that represent binary data (more specifically a sequence of 8-bit bytes) in an ASCII string format by translating it into a radix-64 representation
 
 Decode the following encoding:

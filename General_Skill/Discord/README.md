@@ -10,7 +10,7 @@ No hints are provided
 
 ## Deployment
 
-Run rsz_yessss-join-us.jpg in distrib to static file server.
+Upload rsz_yessss-join-us.jpg in distrib to static file server.
 
 - rsz_yessss-join-us.jpg
     - SHA1: 

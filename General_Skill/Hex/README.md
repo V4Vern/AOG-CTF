@@ -2,6 +2,7 @@
 # Hex
 
 Difficulty Level: Warmup
+
 Included below is a flag encoded as a hex string. These numbers are often used to represent colours within HTML or CSS.
 
 Decode this back into bytes to get the flag.
