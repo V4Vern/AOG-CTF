@@ -7,7 +7,7 @@ My friend told me he has made a new song and would want me to have a review on t
 
 ### Hints
 
--  cThere is something very significant in the least significant bits.
+-  There is something very significant in the least significant bits.
 
 
 
